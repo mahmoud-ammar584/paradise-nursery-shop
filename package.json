@@ -1,8 +1,8 @@
 {
-  "homepage": "https://mahmoud-ammar584.github.io/paradise-nursery-shop",
   "name": "plant-shop",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://mahmoud-ammar584.github.io/paradise-nursery-shop",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.7",
     "react": "^18.2.0",
