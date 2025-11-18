@@ -6,7 +6,8 @@ import ShoppingCart from './components/ShoppingCart';
 
 function App() {
   return (
-    <Router>
+    // تم إضافة خاصية basename هنا
+    <Router basename="/paradise-nursery-shop">
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/products" element={<ProductListing />} />
